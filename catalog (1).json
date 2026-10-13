@@ -1,0 +1,1013 @@
+{
+ "bot": "fizshopnumbers_bot",
+ "brand": "BENJAMIN",
+ "currency": "₽",
+ "countries": [
+  {
+   "id": 201,
+   "flag": "🇮🇳",
+   "name": "Индия",
+   "price": 45,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 202,
+   "flag": "🇲🇲",
+   "name": "Мьянма",
+   "price": 55,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 203,
+   "flag": "🇮🇹",
+   "name": "Италия",
+   "price": 140,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 204,
+   "flag": "🇪🇸",
+   "name": "Испания",
+   "price": 130,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 205,
+   "flag": "🇦🇺",
+   "name": "Австралия",
+   "price": 400,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 206,
+   "flag": "🇦🇹",
+   "name": "Австрия",
+   "price": 350,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 207,
+   "flag": "🇦🇿",
+   "name": "Азербайджан",
+   "price": 428,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 208,
+   "flag": "🇦🇱",
+   "name": "Албания",
+   "price": 150,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 209,
+   "flag": "🇩🇿",
+   "name": "Алжир",
+   "price": 150,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 210,
+   "flag": "🇦🇴",
+   "name": "Ангола",
+   "price": 210,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 211,
+   "flag": "🇦🇷",
+   "name": "Аргентина",
+   "price": 101,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 212,
+   "flag": "🇦🇲",
+   "name": "Армения",
+   "price": 86,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 213,
+   "flag": "🇦🇫",
+   "name": "Афганистан",
+   "price": 99,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 214,
+   "flag": "🇧🇪",
+   "name": "Бельгия",
+   "price": 396,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 215,
+   "flag": "🇧🇬",
+   "name": "Болгария",
+   "price": 373,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 216,
+   "flag": "🇧🇴",
+   "name": "Боливия",
+   "price": 274,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 217,
+   "flag": "🇧🇦",
+   "name": "Босния и Герцеговина",
+   "price": 190,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 218,
+   "flag": "🇧🇼",
+   "name": "Ботсвана",
+   "price": 112,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 219,
+   "flag": "🇧🇷",
+   "name": "Бразилия",
+   "price": 96,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 220,
+   "flag": "🇧🇹",
+   "name": "Бутан",
+   "price": 349,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 221,
+   "flag": "🇭🇺",
+   "name": "Венгрия",
+   "price": 198,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 222,
+   "flag": "🇻🇪",
+   "name": "Венесуэла",
+   "price": 204,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 223,
+   "flag": "🇻🇳",
+   "name": "Вьетнам",
+   "price": 190,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 224,
+   "flag": "🇬🇭",
+   "name": "Гана",
+   "price": 65,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 225,
+   "flag": "🇬🇹",
+   "name": "Гватемала",
+   "price": 171,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 226,
+   "flag": "🇬🇳",
+   "name": "Гвинея",
+   "price": 208,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 227,
+   "flag": "🇭🇳",
+   "name": "Гондурас",
+   "price": 454,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 228,
+   "flag": "🇭🇰",
+   "name": "Гонконг",
+   "price": 169,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 229,
+   "flag": "🇬🇷",
+   "name": "Греция",
+   "price": 131,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 230,
+   "flag": "🇬🇪",
+   "name": "Грузия",
+   "price": 373,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 231,
+   "flag": "🇨🇩",
+   "name": "ДРК",
+   "price": 289,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 232,
+   "flag": "🇩🇰",
+   "name": "Дания",
+   "price": 155,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 233,
+   "flag": "🇪🇬",
+   "name": "Египет",
+   "price": 155,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 234,
+   "flag": "🇿🇲",
+   "name": "Замбия",
+   "price": 153,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 235,
+   "flag": "🇿🇼",
+   "name": "Зимбабве",
+   "price": 139,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 236,
+   "flag": "🇮🇱",
+   "name": "Израиль",
+   "price": 90,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 237,
+   "flag": "🇮🇩",
+   "name": "Индонезия",
+   "price": 80,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 238,
+   "flag": "🇯🇴",
+   "name": "Иордания",
+   "price": 538,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 239,
+   "flag": "🇮🇶",
+   "name": "Ирак",
+   "price": 377,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 240,
+   "flag": "🇮🇷",
+   "name": "Иран",
+   "price": 318,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 241,
+   "flag": "🇮🇪",
+   "name": "Ирландия",
+   "price": 113,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 242,
+   "flag": "🇾🇪",
+   "name": "Йемен",
+   "price": 172,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 243,
+   "flag": "🇰🇭",
+   "name": "Камбоджа",
+   "price": 400,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 244,
+   "flag": "🇨🇲",
+   "name": "Камерун",
+   "price": 267,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 245,
+   "flag": "🇶🇦",
+   "name": "Катар",
+   "price": 510,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 246,
+   "flag": "🇰🇪",
+   "name": "Кения",
+   "price": 72,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 247,
+   "flag": "🇰🇬",
+   "name": "Киргизия",
+   "price": 145,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 248,
+   "flag": "🇨🇳",
+   "name": "Китай",
+   "price": 400,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 249,
+   "flag": "🇨🇴",
+   "name": "Колумбия",
+   "price": 64,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 250,
+   "flag": "🇽🇰",
+   "name": "Косово",
+   "price": 336,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 251,
+   "flag": "🇨🇷",
+   "name": "Коста-Рика",
+   "price": 129,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 252,
+   "flag": "🇰🇼",
+   "name": "Кувейт",
+   "price": 565,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 253,
+   "flag": "🇱🇻",
+   "name": "Латвия",
+   "price": 233,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 254,
+   "flag": "🇱🇧",
+   "name": "Ливан",
+   "price": 140,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 255,
+   "flag": "🇱🇹",
+   "name": "Литва",
+   "price": 157,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 256,
+   "flag": "🇱🇺",
+   "name": "Люксембург",
+   "price": 218,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 257,
+   "flag": "🇲🇬",
+   "name": "Мадагаскар",
+   "price": 224,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 258,
+   "flag": "🇲🇾",
+   "name": "Малайзия",
+   "price": 289,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 259,
+   "flag": "🇲🇦",
+   "name": "Марокко",
+   "price": 208,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 260,
+   "flag": "🇲🇽",
+   "name": "Мексика",
+   "price": 102,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 261,
+   "flag": "🇲🇿",
+   "name": "Мозамбик",
+   "price": 267,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 262,
+   "flag": "🇲🇩",
+   "name": "Молдова",
+   "price": 235,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 263,
+   "flag": "🇲🇳",
+   "name": "Монголия",
+   "price": 336,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 264,
+   "flag": "🇳🇦",
+   "name": "Намибия",
+   "price": 129,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 265,
+   "flag": "🇳🇵",
+   "name": "Непал",
+   "price": 196,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 266,
+   "flag": "🇳🇪",
+   "name": "Нигер",
+   "price": 311,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 267,
+   "flag": "🇳🇱",
+   "name": "Нидерланды",
+   "price": 152,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 268,
+   "flag": "🇳🇮",
+   "name": "Никарагуа",
+   "price": 454,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 269,
+   "flag": "🇳🇿",
+   "name": "Новая Зеландия",
+   "price": 150,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 270,
+   "flag": "🇳🇴",
+   "name": "Норвегия",
+   "price": 392,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 271,
+   "flag": "🇦🇪",
+   "name": "ОАЭ",
+   "price": 278,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 272,
+   "flag": "🇴🇲",
+   "name": "Оман",
+   "price": 137,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 273,
+   "flag": "🇵🇰",
+   "name": "Пакистан",
+   "price": 344,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 274,
+   "flag": "🇵🇦",
+   "name": "Панама",
+   "price": 208,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 275,
+   "flag": "🇵🇾",
+   "name": "Парагвай",
+   "price": 118,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 276,
+   "flag": "🇵🇪",
+   "name": "Перу",
+   "price": 115,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 277,
+   "flag": "🇵🇱",
+   "name": "Польша",
+   "price": 169,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 278,
+   "flag": "🇵🇹",
+   "name": "Португалия",
+   "price": 92,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 279,
+   "flag": "🇷🇴",
+   "name": "Румыния",
+   "price": 163,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 280,
+   "flag": "🇸🇦",
+   "name": "Саудовская Аравия",
+   "price": 280,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 281,
+   "flag": "🇲🇰",
+   "name": "Северная Македония",
+   "price": 190,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 282,
+   "flag": "🇷🇸",
+   "name": "Сербия",
+   "price": 218,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 283,
+   "flag": "🇸🇬",
+   "name": "Сингапур",
+   "price": 615,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 284,
+   "flag": "🇸🇾",
+   "name": "Сирия",
+   "price": 95,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 285,
+   "flag": "🇸🇰",
+   "name": "Словакия",
+   "price": 345,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 286,
+   "flag": "🇸🇮",
+   "name": "Словения",
+   "price": 190,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 287,
+   "flag": "🇹🇯",
+   "name": "Таджикистан",
+   "price": 117,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 288,
+   "flag": "🇹🇭",
+   "name": "Таиланд",
+   "price": 80,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 289,
+   "flag": "🇹🇼",
+   "name": "Тайвань",
+   "price": 342,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 290,
+   "flag": "🇹🇬",
+   "name": "Того",
+   "price": 100,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 291,
+   "flag": "🇹🇳",
+   "name": "Тунис",
+   "price": 170,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 292,
+   "flag": "🇹🇲",
+   "name": "Туркменистан",
+   "price": 135,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 293,
+   "flag": "🇹🇷",
+   "name": "Турция",
+   "price": 115,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 294,
+   "flag": "🇺🇬",
+   "name": "Уганда",
+   "price": 400,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 295,
+   "flag": "🇺🇿",
+   "name": "Узбекистан",
+   "price": 75,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 296,
+   "flag": "🇺🇦",
+   "name": "Украина",
+   "price": 241,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 297,
+   "flag": "🇺🇾",
+   "name": "Уругвай",
+   "price": 292,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 298,
+   "flag": "🇵🇭",
+   "name": "Филиппины",
+   "price": 100,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 299,
+   "flag": "🇫🇮",
+   "name": "Финляндия",
+   "price": 166,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 300,
+   "flag": "🇭🇷",
+   "name": "Хорватия",
+   "price": 184,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 301,
+   "flag": "🇲🇪",
+   "name": "Черногория",
+   "price": 190,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 302,
+   "flag": "🇨🇿",
+   "name": "Чехия",
+   "price": 260,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 303,
+   "flag": "🇨🇱",
+   "name": "Чили",
+   "price": 65,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 304,
+   "flag": "🇨🇭",
+   "name": "Швейцария",
+   "price": 309,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 305,
+   "flag": "🇸🇪",
+   "name": "Швеция",
+   "price": 166,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 306,
+   "flag": "🇱🇰",
+   "name": "Шри-Ланка",
+   "price": 115,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 307,
+   "flag": "🇪🇨",
+   "name": "Эквадор",
+   "price": 134,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 308,
+   "flag": "🇸🇿",
+   "name": "Эсватини",
+   "price": 454,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 309,
+   "flag": "🇪🇪",
+   "name": "Эстония",
+   "price": 138,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 310,
+   "flag": "🇪🇹",
+   "name": "Эфиопия",
+   "price": 175,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 311,
+   "flag": "🇿🇦",
+   "name": "ЮАР",
+   "price": 193,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 312,
+   "flag": "🇰🇷",
+   "name": "Южная Корея",
+   "price": 1000,
+   "stock": null,
+   "desc": ""
+  },
+  {
+   "id": 1,
+   "flag": "🇺🇸",
+   "name": "США",
+   "price": 50,
+   "stock": null,
+   "desc": "+1 сша аккаунт достаточно хорош за свою стоимость но часто его используют мамкины доксири"
+  },
+  {
+   "id": 2,
+   "flag": "🇨🇦",
+   "name": "Канада",
+   "price": 60,
+   "stock": null,
+   "desc": "+1 аккаунт тг тоже достаточно неплохой номер сам его раньше использовал но есть шансы словить фриз"
+  },
+  {
+   "id": 3,
+   "flag": "🇧🇩",
+   "name": "Бангладеш",
+   "price": 75,
+   "stock": null,
+   "desc": "аккаунт тг хорошоий номер пик продаж +880 очень похож на +888 очень надежный и маленький шанс слета"
+  },
+  {
+   "id": 5,
+   "flag": "🇯🇵",
+   "name": "Япония",
+   "price": 130,
+   "stock": null,
+   "desc": "+81 аккаунт тг просто бомба а не номер очень надежный и не слетает"
+  },
+  {
+   "id": 6,
+   "flag": "🇩🇪",
+   "name": "Германия",
+   "price": 150,
+   "stock": null,
+   "desc": "+49 аккаунт тг тоже надежный номер аккаунты на нем держаться годами советую к покупке"
+  },
+  {
+   "id": 7,
+   "flag": "🇨🇵",
+   "name": "Франция",
+   "price": 150,
+   "stock": null,
+   "desc": "+33 аккаунт тг красивый номер тоже отличный в использовании + держиться без слетов в общем одни плюсы от него"
+  },
+  {
+   "id": 8,
+   "flag": "🇬🇧",
+   "name": "Великобритания",
+   "price": 80,
+   "stock": null,
+   "desc": "+44 аккаунт тг красивый номер европа хорошо держиться не слетает и не фризят"
+  },
+  {
+   "id": 9,
+   "flag": "🇲🇷",
+   "name": "Мавритания",
+   "price": 170,
+   "stock": null,
+   "desc": "+222 очень красивый номер а по надёжности он неочень часто слетают нельзя зайти с официального тг брать только из-за красивого номера не советую"
+  },
+  {
+   "id": 11,
+   "flag": "🇧🇾",
+   "name": "Беларусь",
+   "price": 300,
+   "stock": null,
+   "desc": "+375 аккаунт тг хороший снг номер тг не банит полезен для анонимности"
+  },
+  {
+   "id": 12,
+   "flag": "🇰🇿",
+   "name": "Казахстан",
+   "price": 205,
+   "stock": null,
+   "desc": "+77 аккаунт тг хороший номер красивый и надежный также полезен для анонимности"
+  }
+ ],
+ "aging": [
+  {
+   "id": 101,
+   "flag": "🇺🇸",
+   "name": "США +1",
+   "price": 65,
+   "stock": 4,
+   "age": "3 мес"
+  },
+  {
+   "id": 102,
+   "flag": "🇨🇦",
+   "name": "Канада +1",
+   "price": 60,
+   "stock": 0,
+   "age": "2 мес"
+  },
+  {
+   "id": 103,
+   "flag": "🇻🇳",
+   "name": "Вьетнам +84",
+   "price": 70,
+   "stock": 7,
+   "age": null
+  }
+ ],
+ "links": {
+  "reviews": "https://t.me/otzovigar",
+  "support": "https://t.me/APECTOBAH_ZA_SHOP"
+ }
+}
